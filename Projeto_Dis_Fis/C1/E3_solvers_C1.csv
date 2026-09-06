@@ -1,0 +1,4 @@
+solver,time_limit,mip_gap_pedido,tempo_s,status,termination,custo,bound,gap_pct,otimo,subtours,rotas
+gurobi_direct,300,,0.979489803314209,ok,optimal,493.9027674309417,493.9027674309417,0.0,True,0,1
+appsi_highs,300,,11.326322793960571,ok,optimal,493.90276743094176,493.90276743094176,0.0,True,0,1
+cbc,300,,6.681670904159546,ok,optimal,493.9027674309417,493.90276743,1.9067010398938084e-10,True,0,1

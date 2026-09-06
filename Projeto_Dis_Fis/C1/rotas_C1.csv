@@ -1,0 +1,2 @@
+rota,tipo,n_clientes,km,t_desloc_h,t_servico_h,t_total_h,pct_desloc,h_por_cliente,jornada,sequencia
+1,FIO,10,162.60184495396115,4.0650461238490285,2.5,6.5650461238490285,61.919536392620614,0.6565046123849029,OK,0-4-2-8-6-3-10-5-9-1-7-0
