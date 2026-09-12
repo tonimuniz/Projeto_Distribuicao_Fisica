@@ -1,0 +1,20 @@
+{
+  "instancia": "C2",
+  "clientes": 25,
+  "demanda_total_kg": 674.789,
+  "binarias": 1300,
+  "restricoes": 709,
+  "solver_padrao": "gurobi_direct",
+  "custo_otimo": 807.6656626622771,
+  "gap_pct": 0.0,
+  "tempo_s": 60.56504702568054,
+  "rotas": 1,
+  "subtours": 0,
+  "km_total": 171.77710844151812,
+  "frota_ativada": [
+    "VUC"
+  ],
+  "E1_custo_sem_mtz": 714.2688309032899,
+  "E1_subtours_sem_mtz": 11,
+  "E5_ponto_troca_vuc": null
+}

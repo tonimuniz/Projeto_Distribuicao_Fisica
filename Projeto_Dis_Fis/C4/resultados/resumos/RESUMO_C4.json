@@ -1,0 +1,28 @@
+{
+  "instancia": "C4",
+  "clientes": 60,
+  "binarias": 7320,
+  "restricoes": 3789,
+  "relaxacao_linear": 396.95,
+  "lp_tempo_s": 2.446,
+  "melhor_custo_encontrado": 847.0,
+  "melhor_bound": 820.75,
+  "gap_na_raiz_pct": 53.13,
+  "time_limit_usado_s": 3600,
+  "solvers": {
+    "gurobi_direct": {
+      "tempo_s": 3604.04,
+      "custo": 847.0,
+      "gap_pct": 3.099,
+      "otimo_provado": false,
+      "joelho_s": 740.0
+    },
+    "appsi_highs": {
+      "tempo_s": 4643.86,
+      "custo": 931.41,
+      "gap_pct": 14.085,
+      "otimo_provado": false,
+      "joelho_s": 2671.5
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "solver": "appsi_highs",
+  "time_limit": 3600,
+  "mip_gap_pedido": null,
+  "tempo_s": 4643.864998102188,
+  "custo": 931.4143452679175,
+  "bound": 800.2200195314102,
+  "gap_pct": 14.08549550509336,
+  "termination": "maxTimeLimit",
+  "otimo": false,
+  "amostras_log": 228
+}

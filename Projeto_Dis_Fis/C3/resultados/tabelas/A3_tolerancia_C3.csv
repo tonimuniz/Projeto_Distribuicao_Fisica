@@ -1,0 +1,15 @@
+solver,tolerancia_pct,tempo_s,rotulo,custo,acima_do_melhor_pct
+gurobi_direct,20.0,34.0,34s,935.0656597,12.954182115379613
+gurobi_direct,10.0,46.0,46s,852.8799612,3.0263035120449135
+gurobi_direct,5.0,111.0,1.85min,828.7520022,0.1116912100245397
+gurobi_direct,2.0,,não atingiu,,
+gurobi_direct,1.0,,não atingiu,,
+gurobi_direct,0.5,,não atingiu,,
+gurobi_direct,0.0,,não atingiu,,
+appsi_highs,20.0,121.2,2.02min,903.2785181,9.11435488617124
+appsi_highs,10.0,391.0,6.51667min,842.6599387,1.7917439164560343
+appsi_highs,5.0,,não atingiu,,
+appsi_highs,2.0,,não atingiu,,
+appsi_highs,1.0,,não atingiu,,
+appsi_highs,0.5,,não atingiu,,
+appsi_highs,0.0,,não atingiu,,

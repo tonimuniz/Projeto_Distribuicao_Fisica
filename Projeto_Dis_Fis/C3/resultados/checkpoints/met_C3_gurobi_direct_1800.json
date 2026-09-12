@@ -1,0 +1,12 @@
+{
+  "solver": "gurobi_direct",
+  "time_limit": 1800,
+  "mip_gap_pedido": null,
+  "tempo_s": 1804.2118062973022,
+  "custo": 827.8273917692184,
+  "bound": 799.2443347089675,
+  "gap_pct": 3.4527798118836923,
+  "termination": "maxTimeLimit",
+  "otimo": false,
+  "amostras_log": 399
+}

@@ -1,0 +1,15 @@
+solver,orcamento,tl_s,custo_R$,gap_%,acima_do_melhor_%
+gurobi_direct,1h,3600,847.0,3.1,0.0
+gurobi_direct,15min,900,848.49,3.72,0.18
+gurobi_direct,30min,1800,848.49,3.51,0.18
+gurobi_direct,10min,600,880.24,8.36,3.92
+appsi_highs,1h,3600,931.41,14.09,9.97
+gurobi_direct,2min,120,1097.0,29.02,29.52
+gurobi_direct,5min,300,1097.0,28.58,29.52
+gurobi_direct,1min,60,1106.35,29.78,30.62
+gurobi_direct,30s,30,1125.22,31.78,32.85
+appsi_highs,30min,1800,1379.7,43.84,62.89
+appsi_highs,10min,600,1404.35,45.25,65.8
+appsi_highs,15min,900,1404.35,45.25,65.8
+appsi_highs,5min,300,1416.15,46.04,67.2
+appsi_highs,2min,120,1535.29,50.3,81.26
